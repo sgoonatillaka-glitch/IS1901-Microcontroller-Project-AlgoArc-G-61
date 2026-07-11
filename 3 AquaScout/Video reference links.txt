@@ -1,0 +1,16 @@
+1. Science Buddies 
+Make an Arduino ROV (Remotely Operated Vehicle) | Engineering Project
+ https://www.youtube.com/watch?v=wRco4tGXrzw
+
+2. CPSdrone
+How to build your personal DIY Submarine (Arduino Project)
+https://www.youtube.com/watch?v=igPjPe9SHuA
+
+3. Skill Make
+DIY Submarine with ILLEGAL Propeller - Complete Build
+https://www.youtube.com/watch?v=vTR8pQrDoV4
+
+4. Max Imagination
+Build an ESP32 RC Submarine with FPV Camera | ESP-DIVE
+https://www.youtube.com/watch?v=d-2uSKn9rYs
+
